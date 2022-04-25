@@ -1,16 +1,42 @@
-# isu
+# ISU
+Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 
-A new Flutter project.
+#Takım  ISU
 
-## Getting Started
+#
 
-This project is a starting point for a Flutter application.
+## Takım Elemanları
 
-A few resources to get you started if this is your first Flutter project:
+-Fazlı Berk ÖRDEK (Developer)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+-Halise İlayda AĞIR (Developer)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-Seher BIÇAKCI (Developer)
+
+-Umutcan BOSTANCI (UI/UX Designer)
+
+
+## Ürün Açıklaması
+- ISU işitme engelli bireylerin daha kolay sosyalleşebilmesi için işaret dilinin kullanımını artırmayı amaçlayan bir mobil uygulamadır.Uygulamanın içerisindeki modüller sayesinde kullanıcı çeşitli konulardaki sık kullanılan kelimelerin işaret dilindeki karşılıklarına ulaşacaklardır.
+
+
+##Ürün Özellikleri
+-
+-
+-
+
+## Hedef Kitle
+-
+-
+-
+## Product Backlog URL : https://trello.com/b/cJ53ORSR/project-management
+
+--
+
+# Sprint 1
+
+
+
+
+
+
