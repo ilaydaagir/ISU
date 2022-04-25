@@ -39,4 +39,3 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 
 # Sprint 1
 
-
