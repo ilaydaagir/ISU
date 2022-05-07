@@ -44,5 +44,7 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 -  Daily Scrum: 
 
 -  Ürün Durumu: Taslak uygulama oluşturuldu.
+![9c4f297b-8bc9-4f4e-bb21-13ca0b9483a0 (1)](https://user-images.githubusercontent.com/65818522/167262459-9c2d910d-0e18-4fe9-a977-7139caba8085.jpg)
 
+![d50c5b52-fbd7-4dc6-b4c3-fad4f253d614](https://user-images.githubusercontent.com/65818522/167262462-8e8e1f13-aa3b-4f8a-a6a5-75078af5a3a2.jpg)
 
