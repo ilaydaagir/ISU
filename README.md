@@ -25,7 +25,7 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 
 
 ## Ürün Özellikleri
--İşaret dilinde sık kullanılan kelimelerin videolu anlatımı ve açıklamasının yazılı ve görsel olarak gösterilmesi
+- İşaret dilinde sık kullanılan kelimelerin videolu anlatımı ve açıklamasının yazılı ve görsel olarak gösterilmesi
 -
 -
 
