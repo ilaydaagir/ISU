@@ -25,14 +25,14 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 
 
 ##Ürün Özellikleri
--
+-İşaret dilinde sık kullanılan kelimelerin video şeklinde gösterme ve açıklamasının bulunması
 -
 -
 
 ## Hedef Kitle
--
--
--
+-İşitme engelli bireyler ile iletişim kurmak isteyenler
+-İşitme engelli bireylerin aile bireyleri
+-7-65
 ## Product Backlog URL : https://trello.com/b/cJ53ORSR/project-management
 
 --
