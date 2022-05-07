@@ -41,7 +41,8 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 
 -  Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 -  Sprint içinde tamamlanması tahmin edilen puan: 120 Puan
--  Daily Scrum: 
+-  Daily Scrum: [Daily Scrum.docx](https://github.com/fazliberkordek/isu/files/8645589/Daily.Scrum.docx)
+
 
 
 - Sprint Board Screenshots
@@ -53,6 +54,11 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 ![9c4f297b-8bc9-4f4e-bb21-13ca0b9483a0 (1)](https://user-images.githubusercontent.com/65818522/167262459-9c2d910d-0e18-4fe9-a977-7139caba8085.jpg)
 
 ![d50c5b52-fbd7-4dc6-b4c3-fad4f253d614](https://user-images.githubusercontent.com/65818522/167262462-8e8e1f13-aa3b-4f8a-a6a5-75078af5a3a2.jpg)
+
+-  MackUp Uygulama Screenshots
+- ![Screenshot_2022-05-07-19-31-16-466_com example candle_app](https://user-images.githubusercontent.com/104260889/167263932-ebf44368-448c-4a59-8a72-cfb05b9cd05a.jpg)
+![Screenshot_2022-05-07-19-31-22-814_com example candle_app](https://user-images.githubusercontent.com/104260889/167263935-e6e30ce5-ac9e-4bf0-bb8d-d16f64df5040.jpg)
+
 
 #  Sprint Review:
 - Alınan Kararlar : Uygulamamın içeriğine karar verildi. 
