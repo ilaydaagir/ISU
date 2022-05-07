@@ -60,11 +60,11 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 - Developer ekibi için MockUp uygulama yazılmasına karar verildi.
 -  UI/UX tasarlandı. 
 -  Sprint Review Katılımcıları :
--   Fazlı Berk ÖRDEK
--  -Halise İlayda AĞIR
--  -Seher BIÇAKCI
--  -Selim TAŞÇI
--  -Umutcan BOSTANCI
+-  Fazlı Berk ÖRDEK
+-  Halise İlayda AĞIR
+-  Seher BIÇAKCI
+-  Selim TAŞÇI
+-  Umutcan BOSTANCI
 
 
 # Sprint Retrospective
