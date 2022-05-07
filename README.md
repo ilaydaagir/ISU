@@ -54,5 +54,11 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 
 ![d50c5b52-fbd7-4dc6-b4c3-fad4f253d614](https://user-images.githubusercontent.com/65818522/167262462-8e8e1f13-aa3b-4f8a-a6a5-75078af5a3a2.jpg)
 
--  Sprint Review: Alınan Kararlar : Uygulamamın içeriğine karar verildi. Takımdaki roller dağıtıldı. Developer ekibi için MockUp uygulama yazılmasına karar verildi. UI/UX tasarlandı. Sprint Review Katılımcıları : Fazlı Berk ÖRDEK-Halise İlayda AĞIR-Seher BIÇAKCI-Selim TAŞÇI-Umutcan BOSTANCI
+#  Sprint Review: Alınan Kararlar : Uygulamamın içeriğine karar verildi. Takımdaki roller dağıtıldı. Developer ekibi için MockUp uygulama yazılmasına karar verildi. UI/UX tasarlandı. Sprint Review Katılımcıları : Fazlı Berk ÖRDEK-Halise İlayda AĞIR-Seher BIÇAKCI-Selim TAŞÇI-Umutcan BOSTANCI
+
+
+# Sprint Retrospective
+- Uygulamada kullanılacak authentication ve navigasyon mimarisine ağırlık verilecek
+- İçerik üretimine başlanılacak, uygulamada yer alacak kelimelere karar verilecek
+- Tasarlanan UI geliştirilecek ve paralel olarak taslak uygulamanın UI ile tutarlı olması sağlanacak
 
