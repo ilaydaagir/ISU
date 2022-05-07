@@ -43,6 +43,12 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 -  Sprint içinde tamamlanması tahmin edilen puan: 120 Puan
 -  Daily Scrum: 
 
+
+- Sprint Board Screenshots
+- ![1](https://user-images.githubusercontent.com/65818522/167262599-ed8236f0-0436-4894-b70f-5e05237fda1b.png)
+![2](https://user-images.githubusercontent.com/65818522/167262600-034ee5d6-25e1-42a1-b4ff-e3972984f603.png)
+
+
 -  Ürün Durumu: Taslak uygulama oluşturuldu.
 ![9c4f297b-8bc9-4f4e-bb21-13ca0b9483a0 (1)](https://user-images.githubusercontent.com/65818522/167262459-9c2d910d-0e18-4fe9-a977-7139caba8085.jpg)
 
