@@ -53,6 +53,14 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 #  Burndown Chart
 ![3](https://user-images.githubusercontent.com/65818522/167303205-9763e647-6687-43bf-95a4-1bdab45586af.png)
 
+#  UI Design
+
+![WhatsApp Image 2022-05-09 at 01 11 01 (3)](https://user-images.githubusercontent.com/65818522/167318006-9f30b790-f572-4f32-a1f4-fd5529cacdf1.jpeg)
+![WhatsApp Image 2022-05-09 at 01 11 01 (2)](https://user-images.githubusercontent.com/65818522/167318009-31b8a341-4684-4712-bc66-eb167bef0232.jpeg)
+![WhatsApp Image 2022-05-09 at 01 11 01 (1)](https://user-images.githubusercontent.com/65818522/167318010-b8591375-c643-4995-92b7-493becbfa06a.jpeg)
+![WhatsApp Image 2022-05-09 at 01 11 01](https://user-images.githubusercontent.com/65818522/167318011-687e5339-b03a-4611-89f2-1de9b3834228.jpeg)
+![WhatsApp Image 2022-05-09 at 01 11 00 (1)](https://user-images.githubusercontent.com/65818522/167318013-d48d0a39-bae2-4a84-8e03-aee7fe6dbbd4.jpeg)
+![WhatsApp Image 2022-05-09 at 01 11 00](https://user-images.githubusercontent.com/65818522/167318014-bb2e550b-75e5-4ef4-b320-f3325135644d.jpeg)
 
 #  Ürün Durumu: Taslak uygulama oluşturuldu.
 ![9c4f297b-8bc9-4f4e-bb21-13ca0b9483a0 (1)](https://user-images.githubusercontent.com/65818522/167262459-9c2d910d-0e18-4fe9-a977-7139caba8085.jpg)
