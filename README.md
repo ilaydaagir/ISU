@@ -90,3 +90,5 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 - İçerik üretimine başlanılacak, uygulamada yer alacak kelimelere karar verilecek
 - Tasarlanan UI geliştirilecek ve paralel olarak taslak uygulamanın UI ile tutarlı olması sağlanacak
 
+# Toplam Sprint Puanı
+- 120 
