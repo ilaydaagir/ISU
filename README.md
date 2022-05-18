@@ -92,3 +92,37 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 
 # Toplam Sprint Puanı
 - 120 
+- # Sprint 2
+- Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- Sprint içinde tamamlanması tahmin edilen puan: 140 Puan
+- Daily Scrum: [Daily Scrum.docx](https://github.com/fazliberkordek/isu/files/8645589/Daily.Scrum.docx)
+
+#Sprint Board Screenshots![1](https://user-images.githubusercontent.com/76954796/169116348-d3848bd8-b763-4dac-a0c3-7f55ae0d8eb3.png)
+[2]https://user-images.githubusercontent.com/65818522/167262599-ed8236f0-0436-4894-b70f-5e05237fda1b.png
+
+
+- #  UI Design 2!
+- <img width="405" alt="Ekran Resmi 2022-05-18 21 21 30" src="https://user-images.githubusercontent.com/76954796/169117689-668c3634-32b7-4c1f-b98c-91d9b620702b.png">
+
+!<img width="489" alt="Ekran Resmi 2022-05-18 21 22 00" src="https://user-images.githubusercontent.com/76954796/169117713-7e039b8d-5451-49d7-8a6a-eeb7ea9df63f.png">
+<img width="492" alt="Ekran Resmi 2022-05-18 21 22 27" src="https://user-images.githubusercontent.com/76954796/169117745-55964291-0b7e-4d2a-8d00-e9584e1a9656.png">
+<img width="472" alt="Ekran Resmi 2022-05-18 21 22 59" src="https://user-images.githubusercontent.com/76954796/169117754-60f4abcd-b7ae-4418-bc9b-7131aa7c6a7b.png">
+
+
+#  Ürün Durumu:
+- Uygulamanın beta 1 versiyonu yazıldı ve commitlendi.
+- ![WhatsApp Image 2022-05-18 at 21 09 27](https://user-images.githubusercontent.com/76954796/169118284-8a72aa26-c6e9-414d-9c8c-a66ebe686678.jpeg)
+
+- 
+![WhatsApp Image 2022-05-18 at 21 09 27 ![WhatsApp Image 2022-05-18 at 21 09 47](https://user-images.githubusercontent.com/76954796/169118366-82d503a8-1aed-43f8-a98e-f78f3f9eb176.jpeg)
+(1)](https://user![WhatsApp Image 2022-05-18 at 21 10 01](https://user-images.githubusercontent.com/76954796/169118397-f96f4ff8-47b2-4b22-bfe8-90313182ded2.jpeg)![WhatsApp Image 2022-05-18 at 21 10 20](https://user-images.githubusercontent.com/76954796/169118414-daaf902d-d40f-45f4-85c2-b5f452fb46f9.jpeg)
+
+-images.githubusercontent.com/76954796/169118300-cbdbb2d0-16d6-496a-89de-bafe37488ebd.jpeg)
+#  Sprint Review:
+-Alınan Kararlar : Beta versiyonu üzerine dil ekranı,içerik ekranları eklenecek.
+-Uygulamanın arayüzü tasarımına uygun versiyonu oluşturuldu.
+# Sprint Retrospective
+-Uygulama firebase auth kısmı yazıldı misafir girişi için bypass optimizasyonu yapılacak.
+-Ana ekrandan dil seçeneği ile ekranlara gidilecek olması karalaştırıldı.
+-Tasarlanan UI geliştirilecek ve paralel olarak taslak uygulamanın UI ile tutarlı olması sağlanacak
+
