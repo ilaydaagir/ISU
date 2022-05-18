@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "103403185971",
+    "project_id": "isuapp-f9aad",
+    "storage_bucket": "isuapp-f9aad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103403185971:android:96e7a1eb93971e3ea98046",
+        "android_client_info": {
+          "package_name": "com.example.isu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103403185971-vuutkn6hme0cgft25fem0l2am70gvbvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmFaslXfyBK7zus2XTyF8GcDSVqr0ANHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103403185971-vuutkn6hme0cgft25fem0l2am70gvbvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
