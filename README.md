@@ -99,6 +99,7 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 
 #Sprint Board Screenshots
 ![sprint 2](https://user-images.githubusercontent.com/65818522/169685487-fe6299e2-5a12-48e2-a939-faa3da596486.png)
+![sprint2 ekran görüntüsü 2](https://user-images.githubusercontent.com/65818522/169691687-d73da077-b235-4e51-9e79-da5abee09d95.PNG)
 
 
 
@@ -122,6 +123,7 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 #  Sprint Review:
 -Alınan Kararlar : Beta versiyonu üzerine dil ekranı,içerik ekranları eklenecek.
 -Uygulamanın arayüzü tasarımına uygun versiyonu oluşturuldu.
+- Takım üye sayısı güncellenecek kalan üyeler arasında görev dağılımı tekrar gerçekleştirilecek.
 # Sprint Retrospective
 -Uygulama firebase auth kısmı yazıldı misafir girişi için bypass optimizasyonu yapılacak.
 -Ana ekrandan dil seçeneği ile ekranlara gidilecek olması karalaştırıldı.
