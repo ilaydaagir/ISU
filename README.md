@@ -97,8 +97,9 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 - Sprint içinde tamamlanması tahmin edilen puan: 140 Puan
 - Daily Scrum: [Daily Scrum.docx](https://github.com/fazliberkordek/isu/files/8645589/Daily.Scrum.docx)
 
-#Sprint Board Screenshots![1](https://user-images.githubusercontent.com/76954796/169116348-d3848bd8-b763-4dac-a0c3-7f55ae0d8eb3.png)
-[2]https://user-images.githubusercontent.com/65818522/167262599-ed8236f0-0436-4894-b70f-5e05237fda1b.png
+#Sprint Board Screenshots
+![sprint 2](https://user-images.githubusercontent.com/65818522/169685487-fe6299e2-5a12-48e2-a939-faa3da596486.png)
+
 
 
 - #  UI Design 2!
@@ -115,9 +116,9 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 
 - 
 ![WhatsApp Image 2022-05-18 at 21 09 27 ![WhatsApp Image 2022-05-18 at 21 09 47](https://user-images.githubusercontent.com/76954796/169118366-82d503a8-1aed-43f8-a98e-f78f3f9eb176.jpeg)
-(1)](https://user![WhatsApp Image 2022-05-18 at 21 10 01](https://user-images.githubusercontent.com/76954796/169118397-f96f4ff8-47b2-4b22-bfe8-90313182ded2.jpeg)![WhatsApp Image 2022-05-18 at 21 10 20](https://user-images.githubusercontent.com/76954796/169118414-daaf902d-d40f-45f4-85c2-b5f452fb46f9.jpeg)
+![WhatsApp Image 2022-05-22 at 11 08 02](https://user-images.githubusercontent.com/65818522/169685455-85c99676-c639-4991-ba0c-1b514473a9de.jpeg)
+![WhatsApp Image 2022-05-22 at 11 08 01](https://user-images.githubusercontent.com/65818522/169685459-59580b15-48a1-4b50-b484-8f782b26b1b6.jpeg)
 
--images.githubusercontent.com/76954796/169118300-cbdbb2d0-16d6-496a-89de-bafe37488ebd.jpeg)
 #  Sprint Review:
 -Alınan Kararlar : Beta versiyonu üzerine dil ekranı,içerik ekranları eklenecek.
 -Uygulamanın arayüzü tasarımına uygun versiyonu oluşturuldu.
@@ -125,4 +126,5 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 -Uygulama firebase auth kısmı yazıldı misafir girişi için bypass optimizasyonu yapılacak.
 -Ana ekrandan dil seçeneği ile ekranlara gidilecek olması karalaştırıldı.
 -Tasarlanan UI geliştirilecek ve paralel olarak taslak uygulamanın UI ile tutarlı olması sağlanacak
-
+# Toplam Sprint Puanı
+- 150 
