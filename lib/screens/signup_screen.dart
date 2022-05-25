@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 
 import '../reusable_wıdgets/reusable_widgets.dart';
 import '../utities/colors.dart';
-import 'home_screen.dart';
+import 'language.dart';
 
 class SignUpScreen extends StatefulWidget {
   SignUpScreen({Key? key}) : super(key: key);
@@ -73,7 +73,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                       Navigator.push(
                         context,
                         MaterialPageRoute(
-                          builder: (context) => HomeScreen(),
+                          builder: (context) => LanguagePage(),
                         ),
                       );
                     }).onError((error, stackTrace) {

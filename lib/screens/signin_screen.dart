@@ -1,6 +1,6 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:isu/screens/home_screen.dart';
+import 'package:isu/screens/language.dart';
 import 'package:isu/screens/signup_screen.dart';
 import 'package:isu/utities/colors.dart';
 
@@ -56,7 +56,7 @@ class _SignInScreenState extends State<SignInScreen> {
                         password: _passwordTextController.text)
                     .then((value) {
                   Navigator.push(context,
-                      MaterialPageRoute(builder: (context) => HomeScreen()));
+                      MaterialPageRoute(builder: (context) => LanguagePage()));
                 }).catchError((e) {
                   print(e);
                 });

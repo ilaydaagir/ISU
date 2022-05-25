@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:isu/reusable_w%C4%B1dgets/reusable_widgets.dart';
+import 'package:isu/screens/language.dart';
 import 'package:isu/screens/signin_screen.dart';
 import 'package:isu/screens/signup_screen.dart';
 
 import '../utities/colors.dart';
-import 'home_screen.dart';
 
 class pickscreen extends StatefulWidget {
   pickscreen({Key? key}) : super(key: key);
@@ -70,7 +70,7 @@ class _pickscreenState extends State<pickscreen> {
                               Navigator.push(
                                 context,
                                 MaterialPageRoute(
-                                    builder: (context) => HomeScreen()),
+                                    builder: (context) => LanguagePage()),
                               );
                             },
                           ),
