@@ -1,16 +1,19 @@
 import 'package:flutter/material.dart';
-import 'package:isu/quiz_Pages/yemek_quiz_Page.dart';
-import 'package:isu/quiz_Pages/food_quiz_Page.dart';
-import 'package:isu/quiz_Pages/renk_quiz_Page.dart';
-import 'package:isu/quiz_Pages/color_quiz_Page.dart';
-import 'package:isu/quiz_Pages/sayi_quiz_Page.dart';
-import 'package:isu/quiz_Pages/number_quiz_Page.dart';
-import 'package:isu/quiz_Pages/hava_quiz_Page.dart';
-import 'package:isu/quiz_Pages/weather_quiz_Page.dart';
-import 'package:isu/quiz_Pages/aile_quiz_Page.dart';
-import 'package:isu/quiz_Pages/family_quiz_Page.dart';
-import 'package:isu/quiz_Pages/tasit_quiz_Page.dart';
-import 'package:isu/quiz_Pages/vehicle_quiz_Page.dart';
+import 'package:isu/quiz_Pages/ColorQuizScreen.dart';
+import 'package:isu/quiz_Pages/FamilyQuizScreen.dart';
+import 'package:isu/quiz_Pages/FoodQuizScreen.dart';
+import 'package:isu/quiz_Pages/HavaQuizScreen.dart';
+import 'package:isu/quiz_Pages/NumberQuizScreen.dart';
+import 'package:isu/quiz_Pages/RenkQuizScreen.dart';
+import 'package:isu/quiz_Pages/TasitQuizScreen.dart';
+import 'package:isu/quiz_Pages/VehiceQuizScreen.dart';
+import 'package:isu/quiz_Pages/WeatherQuizScreen.dart';
+
+
+
+import '../quiz_Pages/AileQuizScreen.dart';
+import '../quiz_Pages/SayiQuizScreen.dart';
+import '../quiz_Pages/YemekQuizScreen.dart';
 
 class QuizPage extends StatefulWidget {
   String language;
@@ -98,12 +101,12 @@ class _QuizPageState extends State<QuizPage> {
                   if (language == 0) {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => FoodQuizPage()),
+                      MaterialPageRoute(builder: (context) => FoodQuizScreen()),
                     );
                   } else {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => YemekQuizPage()),
+                      MaterialPageRoute(builder: (context) => YemekQuizScreen()),
                     );
                   }
                 }, 'food.png'),
@@ -111,12 +114,12 @@ class _QuizPageState extends State<QuizPage> {
                   if (language == 0) {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => ColorQuizPage()),
+                      MaterialPageRoute(builder: (context) => ColorQuizScreen()),
                     );
                   } else {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => RenkQuizPage()),
+                      MaterialPageRoute(builder: (context) => RenkQuizScreen()),
                     );
                   }
                 }, 'color.png'),
@@ -124,12 +127,12 @@ class _QuizPageState extends State<QuizPage> {
                   if (language == 0) {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => NumberQuizPage()),
+                      MaterialPageRoute(builder: (context) => NumberQuizScreen()),
                     );
                   } else {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => SayiQuizPage()),
+                      MaterialPageRoute(builder: (context) => SayiQuizScreen()),
                     );
                   }
                 }, 'number.png'),
@@ -138,12 +141,12 @@ class _QuizPageState extends State<QuizPage> {
                     Navigator.push(
                       context,
                       MaterialPageRoute(
-                          builder: (context) => WeatherQuizPage()),
+                          builder: (context) => WeatherQuizScreen()),
                     );
                   } else {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => HavaQuizPage()),
+                      MaterialPageRoute(builder: (context) => HavaQuizScreen()),
                     );
                   }
                 }, 'weather.png'),
@@ -151,12 +154,12 @@ class _QuizPageState extends State<QuizPage> {
                   if (language == 0) {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => FamilyQuizPage()),
+                      MaterialPageRoute(builder: (context) => FamilyQuizScreen()),
                     );
                   } else {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => AileQuizPage()),
+                      MaterialPageRoute(builder: (context) => AileQuizScreen()),
                     );
                   }
                 }, 'family.png'),
@@ -165,12 +168,12 @@ class _QuizPageState extends State<QuizPage> {
                     Navigator.push(
                       context,
                       MaterialPageRoute(
-                          builder: (context) => VehicleQuizPage()),
+                          builder: (context) => VehicleQuizScreen()),
                     );
                   } else {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => TasitQuizPage()),
+                      MaterialPageRoute(builder: (context) => TasitQuizScreen()),
                     );
                   }
                 }, 'car.png'),
