@@ -113,13 +113,10 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 
 
 #  Ürün Durumu:
-- Uygulamanın beta 1 versiyonu yazıldı ve commitlendi.
-- ![WhatsApp Image 2022-05-18 at 21 09 27](https://user-images.githubusercontent.com/76954796/169118284-8a72aa26-c6e9-414d-9c8c-a66ebe686678.jpeg)
+<img src="https://user-images.githubusercontent.com/76954796/169118284-8a72aa26-c6e9-414d-9c8c-a66ebe686678.jpeg" width="425"/> <img src="https://user-images.githubusercontent.com/76954796/169118366-82d503a8-1aed-43f8-a98e-f78f3f9eb176.jpeg" width="425"/> 
 
-- 
-![WhatsApp Image 2022-05-18 at 21 09 27 ![WhatsApp Image 2022-05-18 at 21 09 47](https://user-images.githubusercontent.com/76954796/169118366-82d503a8-1aed-43f8-a98e-f78f3f9eb176.jpeg)
-![WhatsApp Image 2022-05-22 at 11 08 02](https://user-images.githubusercontent.com/65818522/169685455-85c99676-c639-4991-ba0c-1b514473a9de.jpeg)
-![WhatsApp Image 2022-05-22 at 11 08 01](https://user-images.githubusercontent.com/65818522/169685459-59580b15-48a1-4b50-b484-8f782b26b1b6.jpeg)
+- Uygulamanın beta 1 versiyonu yazıldı ve commitlendi.
+<img src="https://user-images.githubusercontent.com/65818522/169685455-85c99676-c639-4991-ba0c-1b514473a9de.jpeg" width="425"/> <img src="https://user-images.githubusercontent.com/65818522/169685459-59580b15-48a1-4b50-b484-8f782b26b1b6.jpeg" width="425"/> 
 
 #  Sprint Review:
 -Alınan Kararlar : Beta versiyonu üzerine dil ekranı,içerik ekranları eklenecek.
