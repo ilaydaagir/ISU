@@ -131,3 +131,9 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 -Tasarlanan UI geliştirilecek ve paralel olarak taslak uygulamanın UI ile tutarlı olması sağlanacak
 # Toplam Sprint Puanı
 - 150 
+# Sprint 3
+#  Ürün Durumu:
+![WhatsApp Image 2022-06-01 at 14 05 05](https://user-images.githubusercontent.com/65818522/171390462-134ea55a-82d0-41ed-93e3-ca23f5177160.jpeg)
+![WhatsApp Image 2022-06-01 at 14 04 11 (2)](https://user-images.githubusercontent.com/65818522/171390474-42494fb0-d638-4de9-b315-ed1296653caa.jpeg)
+![WhatsApp Image 2022-06-01 at 14 04 11 (1)](https://user-images.githubusercontent.com/65818522/171390481-5ee0b816-4862-442e-8597-70d13e2bd921.jpeg)
+![WhatsApp Image 2022-06-01 at 14 04 11](https://user-images.githubusercontent.com/65818522/171390488-b5478af7-92e5-4b9b-a146-c46e147f9914.jpeg)
