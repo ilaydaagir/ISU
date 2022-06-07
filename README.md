@@ -25,7 +25,10 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 - 
 
 
-https://user-images.githubusercontent.com/65818522/172431440-09e5df60-12c5-4341-aafb-8cb2643599d0.mp4
+
+
+https://user-images.githubusercontent.com/65818522/172432465-99af88a5-9a4d-4c95-9f2a-4de08ec32b38.mp4
+
 
 
 
