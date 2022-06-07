@@ -22,6 +22,11 @@ Oyun ve Uygulama Akademisi Flutter Takım-125  Flutter mobil uygulaması
 
 ## Ürün Açıklaması
 - ISU işitme engelli bireylerin daha kolay sosyalleşebilmesi için işaret dilinin kullanımını artırmayı amaçlayan bir mobil uygulamadır.Uygulamanın içerisindeki modüller sayesinde kullanıcı çeşitli konulardaki sık kullanılan kelimelerin işaret dilindeki karşılıklarına ulaşacaklardır.
+- 
+
+
+https://user-images.githubusercontent.com/65818522/172431440-09e5df60-12c5-4341-aafb-8cb2643599d0.mp4
+
 
 
 ## Ürün Özellikleri
